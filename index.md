@@ -1,6 +1,6 @@
 # Tarjator Neves
 
-![Screenshot do Plugin Tarjator Neves](https://github.com/raulqueisso/raulqueisso.github.io/blob/master/images/screenshot.jpg)
+![Screenshot do plugin Tarjator Neves](/images/screenshot.jpg)
 
 Obedecendo à ordem do ministro do TSE, esse plugin vai tarjar sempre o nome do senador Aécio Neves.
 
