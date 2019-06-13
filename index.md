@@ -8,5 +8,3 @@ Always trying to learn more about this craft.
 You can check [my games here.](https://raulqueisso.itch.io/)
 
 An follow me on [Twitter.](https://twitter.com/raulqueisso)
-
-
